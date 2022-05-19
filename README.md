@@ -19,6 +19,6 @@ I'm currently interested in:
 - ☁️ cloud computing
 - 💻 systems automation
 - 🐍 Python
-- 🔗 neteworking
+- 🔗 networking
 - 📦 Kubernetes
 - 🤳 self-hosting
